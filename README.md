@@ -9,7 +9,7 @@
 
 1. Fork this repository to your GitHub profile.
 2. For each experiment:
-   SQL queries based on questions generated randomly from Moodle.
+   SQL queries based on questions generated randomly from Moodle
    - Complete the question on Moodle.
    - Each experiment folder contains **two Markdown files**
      1. `README.md`
